@@ -1,0 +1,30 @@
+{
+    "people":[
+        {
+            "name": "John",
+            "favouriteNumber":4,
+            "isprogrammer": true,
+            "hobbies": ["reading", "gaming", "swimming"],
+            "friends":[
+                {
+                    "name": "Alice",
+                    "favouriteNumber": 7,
+                    "isprogrammer": false
+                }
+            ]
+        },
+        {
+            "name": "Bob",
+            "favouriteNumber": 3,
+            "isprogrammer": false,
+            "hobbies": ["reading", "gaming", "swimming"],
+            "friends":[
+                {
+                    "name": "Alice",
+                    "favouriteNumber": 7,
+                    "isprogrammer": false
+                    }
+            ]
+        }
+    ]
+    }

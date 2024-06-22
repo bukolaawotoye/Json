@@ -1,0 +1,26 @@
+ {
+    "employees":
+    [
+        {
+            "id": 1,
+            "Fullname": "Bukola Awotoye",
+            "Phone": "+18326430558",
+            "Email": "bukawotoye@gmail.com",
+            "Salary": "$1,000,000"
+        },
+        {
+            "id": 2,
+            "Fullname": "Ibukunoluwa Awotoye",
+            "Phone": "+18326430558",
+            "Email": "ibkawotoye@gmail.com",
+            "Salary": "$1,000,000"
+        },
+        {
+            "id": 3,
+            "Fullname": "Temiloluw Awotoye",
+            "Phone": "+18326430558",
+            "Email": "temawotoye@gmail.com",
+            "Salary": "$1,000,000"
+        }
+    ]
+ }
